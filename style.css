@@ -1,0 +1,33 @@
+body{
+    background-size: 100%;
+    background-position: center;
+}
+
+.detectar{
+    background-color: blue ;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+#objetos
+{
+    background-color: dodgerblue;
+}
+
+canvas
+{
+    margin-top: 150px;
+    border: 5px;
+    border-style: ridge;
+    border-color: red;
+}
